@@ -31,6 +31,14 @@ permalink: /tm_2026/mas_VS_GH/
 
 ➡️ VS Code est maintenant lié à votre compte GitHub.
 
+## 3.2 Si en cliquant sur l'icône **compte**, vous ne pouvez pas vous connecter.
+
+- Cliquer sur **Code** (tout en haut à gauche)
+- Cliquer sur **Réglages**
+- Service en ligne
+- Se Connecter
+- Connexion à Github
+
 ## 4. Créer le dépôt GitHub distant
 
 - Ouvrir **Source Control**
