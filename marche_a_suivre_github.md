@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Marche à suivre GitHub sur Visual Studio Code"
-permalink: /mas_VS_GH/
+permalink: /tm_2026/mas_VS_GH/
 ---
 # Marche à suivre pour créer un dossier et le mettre sur GitHub
 
